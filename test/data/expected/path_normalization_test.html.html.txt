@@ -3,24 +3,24 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x36
-  RenderBlock {HTML} at (0,0) size 800x36
-    RenderBody {BODY} at (8,8) size 784x20
-      RenderText {#text} at (0,0) size 117x19
-        text run at (0,0) width 117: "expect 'hello hello': "
-      RenderInline {X-COMPONENT-A} at (0,0) size 32x19
+layer at (0,0) size 800x32
+  RenderBlock {HTML} at (0,0) size 800x32
+    RenderBody {BODY} at (8,8) size 784x16
+      RenderText {#text} at (0,0) size 352x16
+        text run at (0,0) width 352: "expect 'hello hello': "
+      RenderInline {X-COMPONENT-A} at (0,0) size 96x16
         RenderText {#text} at (0,0) size 0x0
-        RenderInline {X-COMPONENT-B} at (0,0) size 32x19
+        RenderInline {X-COMPONENT-B} at (0,0) size 96x16
           RenderText {#text} at (0,0) size 0x0
-          RenderInline {SPAN} at (0,0) size 28x19
-            RenderText {#text} at (117,0) size 28x19
-              text run at (117,0) width 28: "hello"
-          RenderText {#text} at (145,0) size 4x19
-            text run at (145,0) width 4: " "
+          RenderInline {SPAN} at (0,0) size 80x16
+            RenderText {#text} at (352,0) size 80x16
+              text run at (352,0) width 80: "hello"
+          RenderText {#text} at (432,0) size 16x16
+            text run at (432,0) width 16: " "
         RenderText {#text} at (0,0) size 0x0
       RenderText {#text} at (0,0) size 0x0
-      RenderInline {SPAN} at (0,0) size 28x19
-        RenderText {#text} at (149,0) size 28x19
-          text run at (149,0) width 28: "hello"
+      RenderInline {SPAN} at (0,0) size 80x16
+        RenderText {#text} at (448,0) size 80x16
+          text run at (448,0) width 80: "hello"
       RenderText {#text} at (0,0) size 0x0
 #EOF

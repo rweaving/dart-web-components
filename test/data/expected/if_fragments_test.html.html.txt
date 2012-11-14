@@ -3,16 +3,16 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x36
-  RenderBlock {HTML} at (0,0) size 800x36
-    RenderBody {BODY} at (8,8) size 784x20
-      RenderText {#text} at (0,0) size 73x19
-        text run at (0,0) width 73: "expect t - t: "
-      RenderText {#text} at (73,0) size 8x19
-        text run at (73,0) width 8: "t "
-      RenderText {#text} at (81,0) size 6x19
-        text run at (81,0) width 6: "-"
-      RenderText {#text} at (87,0) size 8x19
-        text run at (87,0) width 8: " t"
+layer at (0,0) size 800x32
+  RenderBlock {HTML} at (0,0) size 800x32
+    RenderBody {BODY} at (8,8) size 784x16
+      RenderText {#text} at (0,0) size 224x16
+        text run at (0,0) width 224: "expect t - t: "
+      RenderText {#text} at (224,0) size 32x16
+        text run at (224,0) width 32: "t "
+      RenderText {#text} at (256,0) size 16x16
+        text run at (256,0) width 16: "-"
+      RenderText {#text} at (272,0) size 32x16
+        text run at (272,0) width 32: " t"
       RenderText {#text} at (0,0) size 0x0
 #EOF

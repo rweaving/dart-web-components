@@ -3,46 +3,49 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x100
-  RenderBlock {HTML} at (0,0) size 800x100
-    RenderBody {BODY} at (8,8) size 784x76
-      RenderBlock (anonymous) at (0,0) size 784x20
-        RenderText {#text} at (0,0) size 383x19
-          text run at (0,0) width 383: "You should see the list items \"a\" and \"b\" repeated 3 times each. "
-        RenderInline {SPAN} at (0,0) size 7x19
-          RenderText {#text} at (383,0) size 7x19
-            text run at (383,0) width 7: "a"
-        RenderInline {SPAN} at (0,0) size 7x19
-          RenderText {#text} at (390,0) size 7x19
-            text run at (390,0) width 7: "a"
-        RenderInline {SPAN} at (0,0) size 7x19
-          RenderText {#text} at (397,0) size 7x19
-            text run at (397,0) width 7: "a"
-        RenderInline {SPAN} at (0,0) size 8x19
-          RenderText {#text} at (404,0) size 8x19
-            text run at (404,0) width 8: "b"
-        RenderInline {SPAN} at (0,0) size 8x19
-          RenderText {#text} at (412,0) size 8x19
-            text run at (412,0) width 8: "b"
-        RenderInline {SPAN} at (0,0) size 8x19
-          RenderText {#text} at (420,0) size 8x19
-            text run at (420,0) width 8: "b"
+layer at (0,0) size 800x120
+  RenderBlock {HTML} at (0,0) size 800x120
+    RenderBody {BODY} at (8,8) size 784x96
+      RenderBlock (anonymous) at (0,0) size 784x32
+        RenderText {#text} at (0,0) size 656x32
+          text run at (0,0) width 656: "You should see the list items \"a\" and \"b\""
+          text run at (0,16) width 368: "repeated 3 times each. "
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (368,16) size 16x16
+            text run at (368,16) width 16: "a"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (384,16) size 16x16
+            text run at (384,16) width 16: "a"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (400,16) size 16x16
+            text run at (400,16) width 16: "a"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (416,16) size 16x16
+            text run at (416,16) width 16: "b"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (432,16) size 16x16
+            text run at (432,16) width 16: "b"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (448,16) size 16x16
+            text run at (448,16) width 16: "b"
         RenderText {#text} at (0,0) size 0x0
-      RenderBlock {P} at (0,36) size 784x40
-        RenderText {#text} at (0,0) size 732x19
-          text run at (0,0) width 273: "Now you should see: \"abc\" \"def\" \"abc\" \"def\". "
-          text run at (273,0) width 459: "This tests what happens when the \"iterate\" does not have data binding inside."
-        RenderInline {SPAN} at (0,0) size 22x19
-          RenderText {#text} at (0,20) size 22x19
-            text run at (0,20) width 22: "abc"
-        RenderInline {SPAN} at (0,0) size 19x19
-          RenderText {#text} at (22,20) size 19x19
-            text run at (22,20) width 19: "def"
-        RenderInline {SPAN} at (0,0) size 22x19
-          RenderText {#text} at (41,20) size 22x19
-            text run at (41,20) width 22: "abc"
-        RenderInline {SPAN} at (0,0) size 19x19
-          RenderText {#text} at (63,20) size 19x19
-            text run at (63,20) width 19: "def"
+      RenderBlock {P} at (0,48) size 784x48
+        RenderText {#text} at (0,0) size 784x48
+          text run at (0,0) width 720: "Now you should see: \"abc\" \"def\" \"abc\" \"def\". "
+          text run at (720,0) width 64: "This"
+          text run at (0,16) width 736: "tests what happens when the \"iterate\" does not"
+          text run at (0,32) width 416: "have data binding inside. "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (416,32) size 48x16
+            text run at (416,32) width 48: "abc"
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (464,32) size 48x16
+            text run at (464,32) width 48: "def"
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (512,32) size 48x16
+            text run at (512,32) width 48: "abc"
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (560,32) size 48x16
+            text run at (560,32) width 48: "def"
         RenderText {#text} at (0,0) size 0x0
 #EOF

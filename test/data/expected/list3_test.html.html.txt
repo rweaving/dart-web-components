@@ -3,28 +3,28 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x36
-  RenderBlock {HTML} at (0,0) size 800x36
-    RenderBody {BODY} at (8,8) size 784x20
-      RenderText {#text} at (0,0) size 192x19
-        text run at (0,0) width 192: "expect: (-a-) (-?-) (-c-), actual: "
-      RenderText {#text} at (192,0) size 11x19
-        text run at (192,0) width 11: "(-"
-      RenderText {#text} at (203,0) size 7x19
-        text run at (203,0) width 7: "a"
-      RenderText {#text} at (210,0) size 15x19
-        text run at (210,0) width 15: "-) "
-      RenderText {#text} at (225,0) size 11x19
-        text run at (225,0) width 11: "(-"
-      RenderText {#text} at (236,0) size 7x19
-        text run at (236,0) width 7: "?"
-      RenderText {#text} at (243,0) size 15x19
-        text run at (243,0) width 15: "-) "
-      RenderText {#text} at (258,0) size 11x19
-        text run at (258,0) width 11: "(-"
-      RenderText {#text} at (269,0) size 7x19
-        text run at (269,0) width 7: "c"
-      RenderText {#text} at (276,0) size 11x19
-        text run at (276,0) width 11: "-)"
+layer at (0,0) size 800x48
+  RenderBlock {HTML} at (0,0) size 800x48
+    RenderBody {BODY} at (8,8) size 784x32
+      RenderText {#text} at (0,0) size 560x16
+        text run at (0,0) width 560: "expect: (-a-) (-?-) (-c-), actual: "
+      RenderText {#text} at (560,0) size 32x16
+        text run at (560,0) width 32: "(-"
+      RenderText {#text} at (592,0) size 16x16
+        text run at (592,0) width 16: "a"
+      RenderText {#text} at (608,0) size 48x16
+        text run at (608,0) width 48: "-) "
+      RenderText {#text} at (656,0) size 32x16
+        text run at (656,0) width 32: "(-"
+      RenderText {#text} at (688,0) size 16x16
+        text run at (688,0) width 16: "?"
+      RenderText {#text} at (704,0) size 32x16
+        text run at (704,0) width 32: "-)"
+      RenderText {#text} at (0,16) size 32x16
+        text run at (0,16) width 32: "(-"
+      RenderText {#text} at (32,16) size 16x16
+        text run at (32,16) width 16: "c"
+      RenderText {#text} at (48,16) size 32x16
+        text run at (48,16) width 32: "-)"
       RenderText {#text} at (0,0) size 0x0
 #EOF

@@ -29,3 +29,10 @@ function errorHandler(e) {
 }
 
 window.addEventListener('error', errorHandler, false);
+
+// TODO(jmesserly): this is an attempt to work around platform specific font
+// differences.
+var style = document.createElement('style');
+style.textContent = '* { font-family: Ahem; }' +
+    'pre, xmp, plaintext, listing { font-family: monospace; }';
+document.head.appendChild(style);

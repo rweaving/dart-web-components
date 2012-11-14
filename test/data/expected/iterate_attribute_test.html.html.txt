@@ -3,20 +3,20 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x36
-  RenderBlock {HTML} at (0,0) size 800x36
-    RenderBody {BODY} at (8,8) size 784x20
-      RenderBlock {DIV} at (0,0) size 784x20
-        RenderInline {SPAN} at (0,0) size 7x19
-          RenderText {#text} at (0,0) size 7x19
-            text run at (0,0) width 7: "a"
-        RenderInline {SPAN} at (0,0) size 8x19
-          RenderText {#text} at (7,0) size 8x19
-            text run at (7,0) width 8: "b"
-        RenderInline {SPAN} at (0,0) size 7x19
-          RenderText {#text} at (15,0) size 7x19
-            text run at (15,0) width 7: "c"
-        RenderInline {SPAN} at (0,0) size 8x19
-          RenderText {#text} at (22,0) size 8x19
-            text run at (22,0) width 8: "d"
+layer at (0,0) size 800x32
+  RenderBlock {HTML} at (0,0) size 800x32
+    RenderBody {BODY} at (8,8) size 784x16
+      RenderBlock {DIV} at (0,0) size 784x16
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (0,0) size 16x16
+            text run at (0,0) width 16: "a"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (16,0) size 16x16
+            text run at (16,0) width 16: "b"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (32,0) size 16x16
+            text run at (32,0) width 16: "c"
+        RenderInline {SPAN} at (0,0) size 16x16
+          RenderText {#text} at (48,0) size 16x16
+            text run at (48,0) width 16: "d"
 #EOF
