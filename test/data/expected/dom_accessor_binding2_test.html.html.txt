@@ -3,15 +3,14 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x50
-  RenderBlock {HTML} at (0,0) size 800x50
-    RenderBody {BODY} at (8,8) size 784x34
-      RenderBlock {INPUT} at (4,3) size 13x12
-      RenderText {#text} at (20,0) size 17x16
-        text run at (20,0) width 17: " "
-      RenderText {#text} at (36,0) size 661x34
-        text run at (36,0) width 625: "expected input.checked to be false, got"
-        text run at (0,18) width 80: "false"
-      RenderText {#text} at (80,18) size 688x16
-        text run at (80,18) width 688: "expected input.checked to be true, got true"
+layer at (0,0) size 800x36
+  RenderBlock {HTML} at (0,0) size 800x36
+    RenderBody {BODY} at (8,8) size 784x20
+      RenderBlock {INPUT} at (4,3) size 13x13
+      RenderText {#text} at (20,1) size 4x18
+        text run at (20,1) width 4: " "
+      RenderText {#text} at (24,1) size 307x18
+        text run at (24,1) width 307: "expected input.checked to be false, got false"
+      RenderText {#text} at (331,1) size 293x18
+        text run at (331,1) width 293: "expected input.checked to be true, got true"
 #EOF
