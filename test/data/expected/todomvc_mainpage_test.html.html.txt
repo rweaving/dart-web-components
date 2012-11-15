@@ -3,43 +3,43 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x418
-  RenderBlock {HTML} at (0,0) size 800x418
-    RenderBody {BODY} at (125,130) size 550x272 [color=#4D4D4D] [bgcolor=#EAEAEA]
-      RenderBlock {FOOTER} at (0,148) size 550x124 [color=#A6A6A6]
+layer at (0,0) size 800x402
+  RenderBlock {HTML} at (0,0) size 800x402
+    RenderBody {BODY} at (125,130) size 550x260 [color=#4D4D4D] [bgcolor=#EAEAEA]
+      RenderBlock {FOOTER} at (0,148) size 550x112 [color=#A6A6A6]
         RenderBlock {P} at (0,0) size 550x19
-          RenderText {#text} at (182,0) size 186x18
-            text run at (182,0) width 186: "Double-click to edit a todo."
-        RenderBlock {P} at (0,35) size 550x19
-          RenderText {#text} at (196,0) size 85x18
-            text run at (196,0) width 85: "Credits: the "
-          RenderInline {A} at (0,0) size 31x18
-            RenderText {#text} at (280,0) size 31x18
-              text run at (280,0) width 31: "Dart"
-          RenderText {#text} at (310,0) size 44x18
-            text run at (310,0) width 44: " team."
-        RenderBlock {P} at (0,70) size 550x19
-          RenderText {#text} at (58,0) size 128x18
-            text run at (58,0) width 128: "Learn more about "
-          RenderInline {A} at (0,0) size 174x18
-            RenderText {#text} at (185,0) size 174x18
-              text run at (185,0) width 174: "Dart + Web Components"
-          RenderText {#text} at (358,0) size 23x18
-            text run at (358,0) width 5: " "
-            text run at (362,0) width 19: "or "
-          RenderInline {A} at (0,0) size 108x18
-            RenderText {#text} at (380,0) size 108x18
-              text run at (380,0) width 108: "view the source"
-          RenderText {#text} at (487,0) size 5x18
-            text run at (487,0) width 5: "."
-        RenderBlock {P} at (0,105) size 550x19
-          RenderText {#text} at (212,0) size 50x18
-            text run at (212,0) width 50: "Part of "
-          RenderInline {A} at (0,0) size 72x18
-            RenderText {#text} at (262,0) size 72x18
-              text run at (262,0) width 72: "TodoMVC"
-          RenderText {#text} at (334,0) size 4x18
-            text run at (334,0) width 4: "."
+          RenderText {#text} at (203,2) size 144x15
+            text run at (203,2) width 144: "Double-click to edit a todo."
+        RenderBlock {P} at (0,31) size 550x19
+          RenderText {#text} at (213,2) size 67x15
+            text run at (213,2) width 67: "Credits: the "
+          RenderInline {A} at (0,0) size 24x15
+            RenderText {#text} at (279,2) size 24x15
+              text run at (279,2) width 24: "Dart"
+          RenderText {#text} at (302,2) size 35x15
+            text run at (302,2) width 35: " team."
+        RenderBlock {P} at (0,62) size 550x19
+          RenderText {#text} at (104,2) size 101x15
+            text run at (104,2) width 101: "Learn more about "
+          RenderInline {A} at (0,0) size 136x15
+            RenderText {#text} at (205,2) size 136x15
+              text run at (205,2) width 136: "Dart + Web Components"
+          RenderText {#text} at (341,2) size 17x15
+            text run at (341,2) width 3: " "
+            text run at (344,2) width 14: "or "
+          RenderInline {A} at (0,0) size 85x15
+            RenderText {#text} at (358,2) size 85x15
+              text run at (358,2) width 85: "view the source"
+          RenderText {#text} at (443,2) size 3x15
+            text run at (443,2) width 3: "."
+        RenderBlock {P} at (0,93) size 550x19
+          RenderText {#text} at (228,2) size 38x15
+            text run at (228,2) width 38: "Part of "
+          RenderInline {A} at (0,0) size 53x15
+            RenderText {#text} at (266,2) size 53x15
+              text run at (266,2) width 53: "TodoMVC"
+          RenderText {#text} at (319,2) size 3x15
+            text run at (319,2) width 3: "."
 layer at (125,130) size 550x83
   RenderBlock (relative positioned) {SECTION} at (0,0) size 550x83 [bgcolor=#FFFFFFE6] [border: (1px solid #CCCCCC)]
     RenderBlock {HEADER} at (1,1) size 548x80

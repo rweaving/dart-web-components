@@ -33,6 +33,6 @@ window.addEventListener('error', errorHandler, false);
 // TODO(jmesserly): this is an attempt to work around platform specific font
 // differences.
 var style = document.createElement('style');
-style.textContent = '* { font-family: Arial; font-size:16px }' +
+style.textContent = '* { font-family: Arial; }' +
     'pre, xmp, plaintext, listing { font-family: monospace; }';
 document.head.appendChild(style);
