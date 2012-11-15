@@ -3,9 +3,9 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x134
-  RenderBlock {HTML} at (0,0) size 800x134
-    RenderBody {BODY} at (8,13) size 784x113
+layer at (0,0) size 800x133
+  RenderBlock {HTML} at (0,0) size 800x133
+    RenderBody {BODY} at (8,13) size 784x112
       RenderBlock {PRE} at (0,0) size 784x80
         RenderText {#text} at (0,0) size 528x80
           text run at (0,0) width 528: "Here's some HTML with some triple quotes and escape sequences: '''"
@@ -17,11 +17,11 @@ layer at (0,0) size 800x134
           text run at (0,48) width 352: "  But it hopes your compiler does not break!"
           text run at (352,48) width 0: " "
           text run at (0,64) width 16: "  "
-      RenderBlock (anonymous) at (0,93) size 784x20
-        RenderText {#text} at (0,0) size 225x19
-          text run at (0,0) width 225: "While we're at it, here's a cool entity: "
-        RenderInline {SPAN} at (0,0) size 8x19
-          RenderText {#text} at (225,0) size 8x19
-            text run at (225,0) width 8: "\x{192}"
+      RenderBlock (anonymous) at (0,93) size 784x19
+        RenderText {#text} at (0,0) size 253x18
+          text run at (0,0) width 253: "While we're at it, here's a cool entity: "
+        RenderInline {SPAN} at (0,0) size 9x18
+          RenderText {#text} at (253,0) size 9x18
+            text run at (253,0) width 9: "\x{192}"
         RenderText {#text} at (0,0) size 0x0
 #EOF

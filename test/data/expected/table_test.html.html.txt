@@ -3,49 +3,49 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x114
-  RenderBlock {HTML} at (0,0) size 800x114
-    RenderBody {BODY} at (8,8) size 784x98
-      RenderTable {TABLE} at (0,0) size 65x98
-        RenderTableSection {TBODY} at (0,0) size 65x98
-          RenderTableRow {TR} at (0,2) size 65x22
-            RenderTableCell {TD} at (2,2) size 13x22 [r=0 c=0 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 8x19
-                text run at (1,1) width 8: "1"
-            RenderTableCell {TD} at (17,2) size 18x22 [r=0 c=1 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 8x19
-                text run at (1,1) width 8: "2"
-            RenderTableCell {TD} at (37,2) size 26x22 [r=0 c=2 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 11x19
+layer at (0,0) size 800x110
+  RenderBlock {HTML} at (0,0) size 800x110
+    RenderBody {BODY} at (8,8) size 784x94
+      RenderTable {TABLE} at (0,0) size 70x94
+        RenderTableSection {TBODY} at (0,0) size 70x94
+          RenderTableRow {TR} at (0,2) size 70x21
+            RenderTableCell {TD} at (2,2) size 13x21 [r=0 c=0 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 9x18
+                text run at (1,1) width 9: "1"
+            RenderTableCell {TD} at (17,2) size 20x21 [r=0 c=1 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 9x18
+                text run at (1,1) width 9: "2"
+            RenderTableCell {TD} at (39,2) size 29x21 [r=0 c=2 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 11x18
                 text run at (1,1) width 11: "X"
-          RenderTableRow {TR} at (0,26) size 65x22
-            RenderTableCell {TD} at (2,26) size 13x22 [r=1 c=0 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 7x19
-                text run at (1,1) width 7: "a"
-            RenderTableCell {TD} at (17,26) size 18x22 [r=1 c=1 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 11x19
-                text run at (1,1) width 11: "Y"
-            RenderTableCell {TD} at (37,26) size 26x22 [r=1 c=2 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 7x19
-                text run at (1,1) width 7: "c"
-          RenderTableRow {TR} at (0,50) size 65x22
-            RenderTableCell {TD} at (2,50) size 13x22 [r=2 c=0 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 11x19
+          RenderTableRow {TR} at (0,25) size 70x21
+            RenderTableCell {TD} at (2,25) size 13x21 [r=1 c=0 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 9x18
+                text run at (1,1) width 9: "a"
+            RenderTableCell {TD} at (17,25) size 20x21 [r=1 c=1 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 9x18
+                text run at (1,1) width 9: "Y"
+            RenderTableCell {TD} at (39,25) size 29x21 [r=1 c=2 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 8x18
+                text run at (1,1) width 8: "c"
+          RenderTableRow {TR} at (0,48) size 70x21
+            RenderTableCell {TD} at (2,48) size 13x21 [r=2 c=0 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 11x18
                 text run at (1,1) width 11: "A"
-            RenderTableCell {TD} at (17,50) size 18x22 [r=2 c=1 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 10x19
-                text run at (1,1) width 10: "B"
-            RenderTableCell {TD} at (37,50) size 26x22 [r=2 c=2 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 11x19
-                text run at (1,1) width 11: "C"
-          RenderTableRow {TR} at (0,74) size 65x22
-            RenderTableCell {TD} at (2,74) size 13x22 [r=3 c=0 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 8x19
-                text run at (1,1) width 8: "_"
-            RenderTableCell {TD} at (17,74) size 18x22 [r=3 c=1 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 16x19
-                text run at (1,1) width 16: "__"
-            RenderTableCell {TD} at (37,74) size 26x22 [r=3 c=2 rs=1 cs=1]
-              RenderText {#text} at (1,1) size 24x19
-                text run at (1,1) width 24: "___"
+            RenderTableCell {TD} at (17,48) size 20x21 [r=2 c=1 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 11x18
+                text run at (1,1) width 11: "B"
+            RenderTableCell {TD} at (39,48) size 29x21 [r=2 c=2 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 12x18
+                text run at (1,1) width 12: "C"
+          RenderTableRow {TR} at (0,71) size 70x21
+            RenderTableCell {TD} at (2,71) size 13x21 [r=3 c=0 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 9x18
+                text run at (1,1) width 9: "_"
+            RenderTableCell {TD} at (17,71) size 20x21 [r=3 c=1 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 18x18
+                text run at (1,1) width 18: "__"
+            RenderTableCell {TD} at (39,71) size 29x21 [r=3 c=2 rs=1 cs=1]
+              RenderText {#text} at (1,1) size 27x18
+                text run at (1,1) width 27: "___"
 #EOF
