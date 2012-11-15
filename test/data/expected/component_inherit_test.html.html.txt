@@ -3,24 +3,24 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x160
-  RenderBlock {HTML} at (0,0) size 800x160
-    RenderBody {BODY} at (8,8) size 784x144
-      RenderBlock {DIV} at (0,0) size 784x144
+layer at (0,0) size 800x176
+  RenderBlock {HTML} at (0,0) size 800x176
+    RenderBody {BODY} at (8,8) size 784x160
+      RenderBlock {DIV} at (0,0) size 784x160
         RenderBlock {DIV} at (0,0) size 784x19
           RenderText {#text} at (0,0) size 363x18
             text run at (0,0) width 363: "Here are the lifecycle methods that have been called:"
-        RenderBlock {PRE} at (0,32) size 784x80
-          RenderText {#text} at (0,0) size 128x80
+        RenderBlock {PRE} at (0,35) size 784x90
+          RenderText {#text} at (0,0) size 160x90
             text run at (0,0) width 0: " "
-            text run at (0,16) width 96: "Base.created"
-            text run at (96,16) width 0: " "
-            text run at (0,32) width 120: "Derived.created"
-            text run at (120,32) width 0: " "
-            text run at (0,48) width 104: "Base.inserted"
-            text run at (104,48) width 0: " "
-            text run at (0,64) width 128: "Derived.inserted"
-        RenderBlock {DIV} at (0,125) size 784x19
+            text run at (0,18) width 120: "Base.created"
+            text run at (120,18) width 0: " "
+            text run at (0,36) width 150: "Derived.created"
+            text run at (150,36) width 0: " "
+            text run at (0,54) width 130: "Base.inserted"
+            text run at (130,54) width 0: " "
+            text run at (0,72) width 160: "Derived.inserted"
+        RenderBlock {DIV} at (0,141) size 784x19
           RenderText {#text} at (0,0) size 551x18
             text run at (0,0) width 331: "You should see Base created, Derived created, "
             text run at (331,0) width 220: "Base inserted, Derived inserted"

@@ -34,7 +34,8 @@ function show_diff {
 }
 
 function update {
-  read -p "Would you like to update the expectations? [y/N]: " answer
+  #read -p "Would you like to update the expectations? [y/N]: " answer
+  answer='y'
   if [[ $answer == 'y' || $answer == 'Y' ]]; then
     cp $2 $1
     return 0

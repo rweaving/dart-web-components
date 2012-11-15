@@ -3,9 +3,9 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x179
-  RenderBlock {HTML} at (0,0) size 800x179
-    RenderBody {BODY} at (8,16) size 784x150
+layer at (0,0) size 800x189
+  RenderBlock {HTML} at (0,0) size 800x189
+    RenderBody {BODY} at (8,16) size 784x157
       RenderBlock {P} at (0,0) size 784x19
         RenderText {#text} at (0,0) size 249x18
           text run at (0,0) width 249: "The href of these links should match:"
@@ -25,14 +25,14 @@ layer at (0,0) size 800x179
       RenderBlock (anonymous) at (0,105) size 784x0
         RenderText {#text} at (0,0) size 0x0
         RenderText {#text} at (0,0) size 0x0
-      RenderBlock {PRE} at (0,105) size 784x16
-        RenderText {#text} at (0,0) size 408x16
-          text run at (0,0) width 408: "#The \"quick\" \\brown $fox jumps over the 'lazy' dog."
-      RenderBlock (anonymous) at (0,134) size 784x0
+      RenderBlock {PRE} at (0,105) size 784x18
+        RenderText {#text} at (0,0) size 510x18
+          text run at (0,0) width 510: "#The \"quick\" \\brown $fox jumps over the 'lazy' dog."
+      RenderBlock (anonymous) at (0,139) size 784x0
         RenderText {#text} at (0,0) size 0x0
-      RenderBlock {PRE} at (0,134) size 784x16
-        RenderText {#text} at (0,0) size 408x16
-          text run at (0,0) width 408: "#The \"quick\" \\brown $fox jumps over the 'lazy' dog."
-      RenderBlock (anonymous) at (0,163) size 784x0
+      RenderBlock {PRE} at (0,139) size 784x18
+        RenderText {#text} at (0,0) size 510x18
+          text run at (0,0) width 510: "#The \"quick\" \\brown $fox jumps over the 'lazy' dog."
+      RenderBlock (anonymous) at (0,173) size 784x0
         RenderText {#text} at (0,0) size 0x0
 #EOF
