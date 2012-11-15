@@ -3,168 +3,169 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x73
-  RenderBlock {HTML} at (0,0) size 800x73
-    RenderBody {BODY} at (8,8) size 784x57
-      RenderBlock (anonymous) at (0,0) size 784x38
-        RenderText {#text} at (0,0) size 345x18
-          text run at (0,0) width 345: "loop1 should read: (a [a] a)(b [b] b)(c [c] c)(e [e] e) "
-        RenderText {#text} at (345,0) size 5x18
-          text run at (345,0) width 5: "("
-        RenderText {#text} at (350,0) size 9x18
-          text run at (350,0) width 9: "a"
-        RenderText {#text} at (359,0) size 4x18
-          text run at (359,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 17x18
-          RenderText {#text} at (363,0) size 4x18
-            text run at (363,0) width 4: "["
-          RenderText {#text} at (367,0) size 9x18
-            text run at (367,0) width 9: "a"
-          RenderText {#text} at (376,0) size 4x18
-            text run at (376,0) width 4: "]"
-        RenderText {#text} at (380,0) size 4x18
-          text run at (380,0) width 4: " "
-        RenderText {#text} at (384,0) size 9x18
-          text run at (384,0) width 9: "a"
-        RenderText {#text} at (393,0) size 9x18
-          text run at (393,0) width 9: ") "
-        RenderText {#text} at (402,0) size 5x18
-          text run at (402,0) width 5: "("
-        RenderText {#text} at (407,0) size 9x18
-          text run at (407,0) width 9: "b"
-        RenderText {#text} at (416,0) size 4x18
-          text run at (416,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 17x18
-          RenderText {#text} at (420,0) size 4x18
-            text run at (420,0) width 4: "["
-          RenderText {#text} at (424,0) size 9x18
-            text run at (424,0) width 9: "b"
-          RenderText {#text} at (433,0) size 4x18
-            text run at (433,0) width 4: "]"
-        RenderText {#text} at (437,0) size 4x18
-          text run at (437,0) width 4: " "
-        RenderText {#text} at (441,0) size 9x18
-          text run at (441,0) width 9: "b"
-        RenderText {#text} at (450,0) size 9x18
-          text run at (450,0) width 9: ") "
-        RenderText {#text} at (459,0) size 5x18
-          text run at (459,0) width 5: "("
-        RenderText {#text} at (464,0) size 8x18
-          text run at (464,0) width 8: "c"
-        RenderText {#text} at (472,0) size 4x18
-          text run at (472,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 16x18
-          RenderText {#text} at (476,0) size 4x18
-            text run at (476,0) width 4: "["
-          RenderText {#text} at (480,0) size 8x18
-            text run at (480,0) width 8: "c"
-          RenderText {#text} at (488,0) size 4x18
-            text run at (488,0) width 4: "]"
-        RenderText {#text} at (492,0) size 4x18
-          text run at (492,0) width 4: " "
-        RenderText {#text} at (496,0) size 8x18
-          text run at (496,0) width 8: "c"
-        RenderText {#text} at (504,0) size 9x18
-          text run at (504,0) width 9: ") "
-        RenderText {#text} at (513,0) size 5x18
-          text run at (513,0) width 5: "("
-        RenderText {#text} at (518,0) size 9x18
-          text run at (518,0) width 9: "e"
-        RenderText {#text} at (527,0) size 4x18
-          text run at (527,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 17x18
-          RenderText {#text} at (531,0) size 4x18
-            text run at (531,0) width 4: "["
-          RenderText {#text} at (535,0) size 9x18
-            text run at (535,0) width 9: "e"
-          RenderText {#text} at (544,0) size 4x18
-            text run at (544,0) width 4: "]"
-        RenderText {#text} at (548,0) size 4x18
-          text run at (548,0) width 4: " "
-        RenderText {#text} at (552,0) size 9x18
-          text run at (552,0) width 9: "e"
-        RenderText {#text} at (561,0) size 9x18
-          text run at (561,0) width 9: ") "
-        RenderText {#text} at (570,0) size 768x37
-          text run at (570,0) width 198: "loop2 should read: [a (a) a][b"
-          text run at (0,19) width 139: "(b) b][c (c) c][e (e) e]"
-      RenderBlock {DIV} at (0,38) size 784x19
-        RenderText {#text} at (0,0) size 4x18
-          text run at (0,0) width 4: "["
-        RenderText {#text} at (4,0) size 9x18
-          text run at (4,0) width 9: "a"
-        RenderText {#text} at (13,0) size 4x18
-          text run at (13,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 19x18
-          RenderText {#text} at (17,0) size 5x18
-            text run at (17,0) width 5: "("
-          RenderText {#text} at (22,0) size 9x18
-            text run at (22,0) width 9: "a"
-          RenderText {#text} at (31,0) size 5x18
-            text run at (31,0) width 5: ")"
-        RenderText {#text} at (36,0) size 4x18
-          text run at (36,0) width 4: " "
-        RenderText {#text} at (40,0) size 9x18
-          text run at (40,0) width 9: "a"
-        RenderText {#text} at (49,0) size 8x18
-          text run at (49,0) width 8: "] "
-        RenderText {#text} at (57,0) size 4x18
-          text run at (57,0) width 4: "["
-        RenderText {#text} at (61,0) size 9x18
-          text run at (61,0) width 9: "b"
-        RenderText {#text} at (70,0) size 4x18
-          text run at (70,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 19x18
-          RenderText {#text} at (74,0) size 5x18
-            text run at (74,0) width 5: "("
-          RenderText {#text} at (79,0) size 9x18
-            text run at (79,0) width 9: "b"
-          RenderText {#text} at (88,0) size 5x18
-            text run at (88,0) width 5: ")"
-        RenderText {#text} at (93,0) size 4x18
-          text run at (93,0) width 4: " "
-        RenderText {#text} at (97,0) size 9x18
-          text run at (97,0) width 9: "b"
-        RenderText {#text} at (106,0) size 8x18
-          text run at (106,0) width 8: "] "
-        RenderText {#text} at (114,0) size 4x18
-          text run at (114,0) width 4: "["
-        RenderText {#text} at (118,0) size 8x18
-          text run at (118,0) width 8: "c"
-        RenderText {#text} at (126,0) size 4x18
-          text run at (126,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 18x18
-          RenderText {#text} at (130,0) size 5x18
-            text run at (130,0) width 5: "("
-          RenderText {#text} at (135,0) size 8x18
-            text run at (135,0) width 8: "c"
-          RenderText {#text} at (143,0) size 5x18
-            text run at (143,0) width 5: ")"
-        RenderText {#text} at (148,0) size 4x18
-          text run at (148,0) width 4: " "
-        RenderText {#text} at (152,0) size 8x18
-          text run at (152,0) width 8: "c"
-        RenderText {#text} at (160,0) size 8x18
-          text run at (160,0) width 8: "] "
-        RenderText {#text} at (168,0) size 4x18
-          text run at (168,0) width 4: "["
-        RenderText {#text} at (172,0) size 9x18
-          text run at (172,0) width 9: "e"
-        RenderText {#text} at (181,0) size 4x18
-          text run at (181,0) width 4: " "
-        RenderInline {SPAN} at (0,0) size 19x18
-          RenderText {#text} at (185,0) size 5x18
-            text run at (185,0) width 5: "("
-          RenderText {#text} at (190,0) size 9x18
-            text run at (190,0) width 9: "e"
-          RenderText {#text} at (199,0) size 5x18
-            text run at (199,0) width 5: ")"
-        RenderText {#text} at (204,0) size 4x18
-          text run at (204,0) width 4: " "
-        RenderText {#text} at (208,0) size 9x18
-          text run at (208,0) width 9: "e"
-        RenderText {#text} at (217,0) size 4x18
-          text run at (217,0) width 4: "]"
-      RenderBlock (anonymous) at (0,57) size 784x0
+layer at (0,0) size 800x96
+  RenderBlock {HTML} at (0,0) size 800x96
+    RenderBody {BODY} at (8,8) size 784x80
+      RenderBlock (anonymous) at (0,0) size 784x64
+        RenderText {#text} at (0,0) size 768x32
+          text run at (0,0) width 768: "loop1 should read: (a [a] a)(b [b] b)(c [c] c)(e"
+          text run at (0,16) width 112: "[e] e) "
+        RenderText {#text} at (112,16) size 16x16
+          text run at (112,16) width 16: "("
+        RenderText {#text} at (128,16) size 16x16
+          text run at (128,16) width 16: "a"
+        RenderText {#text} at (144,16) size 16x16
+          text run at (144,16) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (160,16) size 16x16
+            text run at (160,16) width 16: "["
+          RenderText {#text} at (176,16) size 16x16
+            text run at (176,16) width 16: "a"
+          RenderText {#text} at (192,16) size 16x16
+            text run at (192,16) width 16: "]"
+        RenderText {#text} at (208,16) size 16x16
+          text run at (208,16) width 16: " "
+        RenderText {#text} at (224,16) size 16x16
+          text run at (224,16) width 16: "a"
+        RenderText {#text} at (240,16) size 32x16
+          text run at (240,16) width 32: ") "
+        RenderText {#text} at (272,16) size 16x16
+          text run at (272,16) width 16: "("
+        RenderText {#text} at (288,16) size 16x16
+          text run at (288,16) width 16: "b"
+        RenderText {#text} at (304,16) size 16x16
+          text run at (304,16) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (320,16) size 16x16
+            text run at (320,16) width 16: "["
+          RenderText {#text} at (336,16) size 16x16
+            text run at (336,16) width 16: "b"
+          RenderText {#text} at (352,16) size 16x16
+            text run at (352,16) width 16: "]"
+        RenderText {#text} at (368,16) size 16x16
+          text run at (368,16) width 16: " "
+        RenderText {#text} at (384,16) size 16x16
+          text run at (384,16) width 16: "b"
+        RenderText {#text} at (400,16) size 32x16
+          text run at (400,16) width 32: ") "
+        RenderText {#text} at (432,16) size 16x16
+          text run at (432,16) width 16: "("
+        RenderText {#text} at (448,16) size 16x16
+          text run at (448,16) width 16: "c"
+        RenderText {#text} at (464,16) size 16x16
+          text run at (464,16) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (480,16) size 16x16
+            text run at (480,16) width 16: "["
+          RenderText {#text} at (496,16) size 16x16
+            text run at (496,16) width 16: "c"
+          RenderText {#text} at (512,16) size 16x16
+            text run at (512,16) width 16: "]"
+        RenderText {#text} at (528,16) size 16x16
+          text run at (528,16) width 16: " "
+        RenderText {#text} at (544,16) size 16x16
+          text run at (544,16) width 16: "c"
+        RenderText {#text} at (560,16) size 32x16
+          text run at (560,16) width 32: ") "
+        RenderText {#text} at (592,16) size 16x16
+          text run at (592,16) width 16: "("
+        RenderText {#text} at (608,16) size 16x16
+          text run at (608,16) width 16: "e"
+        RenderText {#text} at (624,16) size 16x16
+          text run at (624,16) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (640,16) size 16x16
+            text run at (640,16) width 16: "["
+          RenderText {#text} at (656,16) size 16x16
+            text run at (656,16) width 16: "e"
+          RenderText {#text} at (672,16) size 16x16
+            text run at (672,16) width 16: "]"
+        RenderText {#text} at (688,16) size 16x16
+          text run at (688,16) width 16: " "
+        RenderText {#text} at (704,16) size 16x16
+          text run at (704,16) width 16: "e"
+        RenderText {#text} at (720,16) size 16x16
+          text run at (720,16) width 16: ")"
+        RenderText {#text} at (0,32) size 768x32
+          text run at (0,32) width 768: "loop2 should read: [a (a) a][b (b) b][c (c) c][e"
+          text run at (0,48) width 96: "(e) e]"
+      RenderBlock {DIV} at (0,64) size 784x16
+        RenderText {#text} at (0,0) size 16x16
+          text run at (0,0) width 16: "["
+        RenderText {#text} at (16,0) size 16x16
+          text run at (16,0) width 16: "a"
+        RenderText {#text} at (32,0) size 16x16
+          text run at (32,0) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (48,0) size 16x16
+            text run at (48,0) width 16: "("
+          RenderText {#text} at (64,0) size 16x16
+            text run at (64,0) width 16: "a"
+          RenderText {#text} at (80,0) size 16x16
+            text run at (80,0) width 16: ")"
+        RenderText {#text} at (96,0) size 16x16
+          text run at (96,0) width 16: " "
+        RenderText {#text} at (112,0) size 16x16
+          text run at (112,0) width 16: "a"
+        RenderText {#text} at (128,0) size 32x16
+          text run at (128,0) width 32: "] "
+        RenderText {#text} at (160,0) size 16x16
+          text run at (160,0) width 16: "["
+        RenderText {#text} at (176,0) size 16x16
+          text run at (176,0) width 16: "b"
+        RenderText {#text} at (192,0) size 16x16
+          text run at (192,0) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (208,0) size 16x16
+            text run at (208,0) width 16: "("
+          RenderText {#text} at (224,0) size 16x16
+            text run at (224,0) width 16: "b"
+          RenderText {#text} at (240,0) size 16x16
+            text run at (240,0) width 16: ")"
+        RenderText {#text} at (256,0) size 16x16
+          text run at (256,0) width 16: " "
+        RenderText {#text} at (272,0) size 16x16
+          text run at (272,0) width 16: "b"
+        RenderText {#text} at (288,0) size 32x16
+          text run at (288,0) width 32: "] "
+        RenderText {#text} at (320,0) size 16x16
+          text run at (320,0) width 16: "["
+        RenderText {#text} at (336,0) size 16x16
+          text run at (336,0) width 16: "c"
+        RenderText {#text} at (352,0) size 16x16
+          text run at (352,0) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (368,0) size 16x16
+            text run at (368,0) width 16: "("
+          RenderText {#text} at (384,0) size 16x16
+            text run at (384,0) width 16: "c"
+          RenderText {#text} at (400,0) size 16x16
+            text run at (400,0) width 16: ")"
+        RenderText {#text} at (416,0) size 16x16
+          text run at (416,0) width 16: " "
+        RenderText {#text} at (432,0) size 16x16
+          text run at (432,0) width 16: "c"
+        RenderText {#text} at (448,0) size 32x16
+          text run at (448,0) width 32: "] "
+        RenderText {#text} at (480,0) size 16x16
+          text run at (480,0) width 16: "["
+        RenderText {#text} at (496,0) size 16x16
+          text run at (496,0) width 16: "e"
+        RenderText {#text} at (512,0) size 16x16
+          text run at (512,0) width 16: " "
+        RenderInline {SPAN} at (0,0) size 48x16
+          RenderText {#text} at (528,0) size 16x16
+            text run at (528,0) width 16: "("
+          RenderText {#text} at (544,0) size 16x16
+            text run at (544,0) width 16: "e"
+          RenderText {#text} at (560,0) size 16x16
+            text run at (560,0) width 16: ")"
+        RenderText {#text} at (576,0) size 16x16
+          text run at (576,0) width 16: " "
+        RenderText {#text} at (592,0) size 16x16
+          text run at (592,0) width 16: "e"
+        RenderText {#text} at (608,0) size 16x16
+          text run at (608,0) width 16: "]"
+      RenderBlock (anonymous) at (0,80) size 784x0
         RenderText {#text} at (0,0) size 0x0
 #EOF

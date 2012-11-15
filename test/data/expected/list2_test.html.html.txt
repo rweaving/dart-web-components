@@ -3,14 +3,14 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x35
-  RenderBlock {HTML} at (0,0) size 800x35
-    RenderBody {BODY} at (8,8) size 784x19
-      RenderInline {SPAN} at (0,0) size 9x18
-        RenderText {#text} at (0,0) size 9x18
-          text run at (0,0) width 9: "a"
-      RenderInline {SPAN} at (0,0) size 9x18
-        RenderText {#text} at (9,0) size 9x18
-          text run at (9,0) width 9: "b"
+layer at (0,0) size 800x32
+  RenderBlock {HTML} at (0,0) size 800x32
+    RenderBody {BODY} at (8,8) size 784x16
+      RenderInline {SPAN} at (0,0) size 16x16
+        RenderText {#text} at (0,0) size 16x16
+          text run at (0,0) width 16: "a"
+      RenderInline {SPAN} at (0,0) size 16x16
+        RenderText {#text} at (16,0) size 16x16
+          text run at (16,0) width 16: "b"
       RenderText {#text} at (0,0) size 0x0
 #EOF

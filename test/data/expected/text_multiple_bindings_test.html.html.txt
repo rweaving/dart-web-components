@@ -3,31 +3,31 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x141
-  RenderBlock {HTML} at (0,0) size 800x141
-    RenderBody {BODY} at (8,16) size 784x112
-      RenderBlock {P} at (0,0) size 784x19
-        RenderText {#text} at (0,0) size 245x18
-          text run at (0,0) width 245: "These two sentences should match:"
-      RenderBlock {PRE} at (0,35) size 784x32
-        RenderText {#text} at (0,0) size 232x32
+layer at (0,0) size 800x134
+  RenderBlock {HTML} at (0,0) size 800x134
+    RenderBody {BODY} at (8,16) size 784x105
+      RenderBlock {P} at (0,0) size 784x16
+        RenderText {#text} at (0,0) size 528x16
+          text run at (0,0) width 528: "These two sentences should match:"
+      RenderBlock {PRE} at (0,32) size 784x30
+        RenderText {#text} at (0,0) size 232x30
           text run at (0,0) width 232: "The \"quick\" \\brown $fox jumps"
           text run at (232,0) width 0: " "
-          text run at (0,16) width 176: "  over the 'lazy' dog."
-      RenderBlock {PRE} at (0,80) size 784x32
-        RenderText {#text} at (0,0) size 192x16
+          text run at (0,15) width 176: "  over the 'lazy' dog."
+      RenderBlock {PRE} at (0,75) size 784x30
+        RenderText {#text} at (0,0) size 192x15
           text run at (0,0) width 192: "The \"quick\" \\brown $fox "
-        RenderText {#text} at (192,0) size 40x16
+        RenderText {#text} at (192,0) size 40x15
           text run at (192,0) width 40: "jumps"
-        RenderText {#text} at (232,0) size 232x32
+        RenderText {#text} at (232,0) size 232x30
           text run at (232,0) width 0: " "
-          text run at (0,16) width 56: "  over "
-        RenderText {#text} at (56,16) size 24x16
-          text run at (56,16) width 24: "the"
-        RenderText {#text} at (80,16) size 64x16
-          text run at (80,16) width 64: " 'lazy' "
-        RenderText {#text} at (144,16) size 24x16
-          text run at (144,16) width 24: "dog"
-        RenderText {#text} at (168,16) size 8x16
-          text run at (168,16) width 8: "."
+          text run at (0,15) width 56: "  over "
+        RenderText {#text} at (56,15) size 24x15
+          text run at (56,15) width 24: "the"
+        RenderText {#text} at (80,15) size 64x15
+          text run at (80,15) width 64: " 'lazy' "
+        RenderText {#text} at (144,15) size 24x15
+          text run at (144,15) width 24: "dog"
+        RenderText {#text} at (168,15) size 8x15
+          text run at (168,15) width 8: "."
 #EOF

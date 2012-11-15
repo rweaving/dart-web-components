@@ -3,26 +3,27 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x220
-  RenderBlock {HTML} at (0,0) size 800x220
-    RenderBody {BODY} at (8,16) size 784x188
-      RenderBlock {DIV} at (0,0) size 784x188
-        RenderBlock {P} at (0,0) size 784x19
-          RenderText {#text} at (0,0) size 363x18
-            text run at (0,0) width 363: "Here are the lifecycle methods that have been called:"
-        RenderBlock {PRE} at (0,35) size 784x48
-          RenderText {#text} at (0,0) size 104x48
+layer at (0,0) size 800x221
+  RenderBlock {HTML} at (0,0) size 800x221
+    RenderBody {BODY} at (8,16) size 784x189
+      RenderBlock {DIV} at (0,0) size 784x189
+        RenderBlock {P} at (0,0) size 784x32
+          RenderText {#text} at (0,0) size 720x32
+            text run at (0,0) width 720: "Here are the lifecycle methods that have been"
+            text run at (0,16) width 112: "called:"
+        RenderBlock {PRE} at (0,48) size 784x45
+          RenderText {#text} at (0,0) size 104x45
             text run at (0,0) width 0: " "
-            text run at (0,16) width 96: "Base.created"
-            text run at (96,16) width 0: " "
-            text run at (0,32) width 104: "Base.inserted"
-        RenderBlock {P} at (0,99) size 784x19
-          RenderText {#text} at (0,0) size 312x18
-            text run at (0,0) width 312: "You should see Base created, Base inserted."
-        RenderBlock {P} at (0,134) size 784x19
-          RenderText {#text} at (0,0) size 266x18
-            text run at (0,0) width 266: "Also, here is a message from Derived:"
-        RenderBlock {P} at (0,169) size 784x19
-          RenderText {#text} at (0,0) size 328x18
-            text run at (0,0) width 328: "Hello, I am a Derived element with no script tag!"
+            text run at (0,15) width 96: "Base.created"
+            text run at (96,15) width 0: " "
+            text run at (0,30) width 104: "Base.inserted"
+        RenderBlock {P} at (0,109) size 784x16
+          RenderText {#text} at (0,0) size 688x16
+            text run at (0,0) width 688: "You should see Base created, Base inserted."
+        RenderBlock {P} at (0,141) size 784x16
+          RenderText {#text} at (0,0) size 592x16
+            text run at (0,0) width 592: "Also, here is a message from Derived:"
+        RenderBlock {P} at (0,173) size 784x16
+          RenderText {#text} at (0,0) size 784x16
+            text run at (0,0) width 784: "Hello, I am a Derived element with no script tag!"
 #EOF

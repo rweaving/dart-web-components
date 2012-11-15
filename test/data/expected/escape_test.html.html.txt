@@ -3,18 +3,19 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x54
-  RenderBlock {HTML} at (0,0) size 800x54
-    RenderBody {BODY} at (8,8) size 784x38
-      RenderBlock {DIV} at (0,0) size 784x19
-        RenderText {#text} at (0,0) size 312x18
-          text run at (0,0) width 312: "binding as text (expect <span>hello</span>): "
-        RenderText {#text} at (312,0) size 140x18
-          text run at (312,0) width 140: "<span>hello</span>"
-      RenderBlock {DIV} at (0,19) size 784x19
-        RenderText {#text} at (0,0) size 371x18
-          text run at (0,0) width 371: "binding as SafeHtml (expect hello inside a real span): "
-        RenderInline {SPAN} at (0,0) size 32x18
-          RenderText {#text} at (371,0) size 32x18
-            text run at (371,0) width 32: "hello"
+layer at (0,0) size 800x80
+  RenderBlock {HTML} at (0,0) size 800x80
+    RenderBody {BODY} at (8,8) size 784x64
+      RenderBlock {DIV} at (0,0) size 784x32
+        RenderText {#text} at (0,0) size 704x16
+          text run at (0,0) width 704: "binding as text (expect <span>hello</span>):"
+        RenderText {#text} at (0,16) size 288x16
+          text run at (0,16) width 288: "<span>hello</span>"
+      RenderBlock {DIV} at (0,32) size 784x32
+        RenderText {#text} at (0,0) size 752x32
+          text run at (0,0) width 752: "binding as SafeHtml (expect hello inside a real"
+          text run at (0,16) width 112: "span): "
+        RenderInline {SPAN} at (0,0) size 80x16
+          RenderText {#text} at (112,16) size 80x16
+            text run at (112,16) width 80: "hello"
 #EOF

@@ -3,16 +3,19 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x132
-  RenderBlock {HTML} at (0,0) size 800x132
-    RenderBody {BODY} at (8,8) size 784x116
+layer at (0,0) size 800x131
+  RenderBlock {HTML} at (0,0) size 800x131
+    RenderBody {BODY} at (8,8) size 784x115
       RenderBlock {DIV} at (0,0) size 784x50 [color=#0000FF]
-        RenderText {#text} at (0,0) size 386x18
-          text run at (0,0) width 386: "this div will have blue (0000ff) font color and 50px height."
+        RenderText {#text} at (0,0) size 752x32
+          text run at (0,0) width 752: "this div will have blue (0000ff) font color and"
+          text run at (0,16) width 192: "50px height."
       RenderBlock {DIV} at (0,50) size 400x50
-        RenderText {#text} at (0,0) size 348x18
-          text run at (0,0) width 348: "this div will have blue 400px width and 50px height."
-      RenderBlock {DIV} at (0,100) size 784x16 [bgcolor=#008000]
-        RenderText {#text} at (0,0) size 488x16
+        RenderText {#text} at (0,0) size 368x48
+          text run at (0,0) width 368: "this div will have blue"
+          text run at (0,16) width 320: "400px width and 50px"
+          text run at (0,32) width 112: "height."
+      RenderBlock {DIV} at (0,100) size 784x15 [bgcolor=#008000]
+        RenderText {#text} at (0,0) size 488x15
           text run at (0,0) width 488: "this div will have green (008000) bgcolor and monospace font."
 #EOF
