@@ -20,13 +20,6 @@ DART_FLAGS="--checked"
 TEST_PATTERN=$1
 
 function show_diff {
-  #echo -en "[33mExpected[0m"
-  #echo -n "                                                           "
-  #echo -e "[32mOutput[0m"
-  #diff -t -y $1 $2 | \
-  #  sed -e "s/\(^.\{63\}\)\(\s[<]\(\s\|$\)\)\(.*\)/[31m\1[33m\2[32m\4[0m/" |\
-  #  sed -e "s/\(^.\{63\}\)\(\s[|]\(\s\|$\)\)\(.*\)/[33m\1[33m\2[33m\4[0m/" |\
-  #  sed -e "s/\(^.\{63\}\)\(\s[>]\(\s\|$\)\)\(.*\)/[31m\1[33m\2[32m\4[0m/"
   diff -u $1 $2 | \
     sed -e "s/^\(+.*\)/\x1b[32m\1\x1b[0m/" |\
     sed -e "s/^\(-.*\)/\x1b[31m\1\x1b[0m/"
@@ -90,12 +83,12 @@ popd
 # wrapper that sets `--enable-type-checks --enable-asserts`
 for input in $DIR/data/input/*_test.html; do
   if [[ ($TEST_PATTERN == "") || ($input =~ $TEST_PATTERN) ]]; then
-    FILENAME=`basename $input.html`
+    FILENAME=`basename $input`
     echo -e -n "Testing $FILENAME "
     DUMP="$DIR/data/output/$FILENAME.txt"
     EXPECTATION="$DIR/data/expected/$FILENAME.txt"
     DART_PACKAGE_ROOT="file://$DIR/packages/" \
-        DumpRenderTree $DIR/data/output/_$FILENAME > $DUMP
+        DumpRenderTree $DIR/data/output/$FILENAME > $DUMP
 
     compare $EXPECTATION $DUMP
   fi
