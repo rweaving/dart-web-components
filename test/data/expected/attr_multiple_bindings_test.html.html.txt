@@ -3,36 +3,36 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x179
-  RenderBlock {HTML} at (0,0) size 800x179
-    RenderBody {BODY} at (8,16) size 784x150
-      RenderBlock {P} at (0,0) size 784x19
-        RenderText {#text} at (0,0) size 249x18
-          text run at (0,0) width 249: "The href of these links should match:"
-      RenderBlock (anonymous) at (0,35) size 784x19
-        RenderInline {A} at (0,0) size 52x18 [color=#0000EE]
-          RenderText {#text} at (0,0) size 52x18
-            text run at (0,0) width 52: "first link"
-        RenderText {#text} at (52,0) size 4x18
-          text run at (52,0) width 4: " "
-        RenderInline {A} at (0,0) size 78x18 [color=#0000EE]
-          RenderText {#text} at (56,0) size 78x18
-            text run at (56,0) width 78: "second link"
+layer at (0,0) size 800x182
+  RenderBlock {HTML} at (0,0) size 800x182
+    RenderBody {BODY} at (8,16) size 784x153
+      RenderBlock {P} at (0,0) size 784x20
+        RenderText {#text} at (0,0) size 218x19
+          text run at (0,0) width 218: "The href of these links should match:"
+      RenderBlock (anonymous) at (0,36) size 784x20
+        RenderInline {A} at (0,0) size 47x19 [color=#0000EE]
+          RenderText {#text} at (0,0) size 47x19
+            text run at (0,0) width 47: "first link"
+        RenderText {#text} at (47,0) size 4x19
+          text run at (47,0) width 4: " "
+        RenderInline {A} at (0,0) size 68x19 [color=#0000EE]
+          RenderText {#text} at (51,0) size 68x19
+            text run at (51,0) width 68: "second link"
         RenderText {#text} at (0,0) size 0x0
-      RenderBlock {P} at (0,70) size 784x19
-        RenderText {#text} at (0,0) size 177x18
-          text run at (0,0) width 177: "Here are the hrefs as text:"
-      RenderBlock (anonymous) at (0,105) size 784x0
+      RenderBlock {P} at (0,72) size 784x20
+        RenderText {#text} at (0,0) size 154x19
+          text run at (0,0) width 154: "Here are the hrefs as text:"
+      RenderBlock (anonymous) at (0,108) size 784x0
         RenderText {#text} at (0,0) size 0x0
         RenderText {#text} at (0,0) size 0x0
-      RenderBlock {PRE} at (0,105) size 784x16
+      RenderBlock {PRE} at (0,108) size 784x16
         RenderText {#text} at (0,0) size 408x16
           text run at (0,0) width 408: "#The \"quick\" \\brown $fox jumps over the 'lazy' dog."
-      RenderBlock (anonymous) at (0,134) size 784x0
+      RenderBlock (anonymous) at (0,137) size 784x0
         RenderText {#text} at (0,0) size 0x0
-      RenderBlock {PRE} at (0,134) size 784x16
+      RenderBlock {PRE} at (0,137) size 784x16
         RenderText {#text} at (0,0) size 408x16
           text run at (0,0) width 408: "#The \"quick\" \\brown $fox jumps over the 'lazy' dog."
-      RenderBlock (anonymous) at (0,163) size 784x0
+      RenderBlock (anonymous) at (0,166) size 784x0
         RenderText {#text} at (0,0) size 0x0
 #EOF

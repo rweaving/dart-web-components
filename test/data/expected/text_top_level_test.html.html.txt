@@ -3,12 +3,12 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x35
-  RenderBlock {HTML} at (0,0) size 800x35
-    RenderBody {BODY} at (8,8) size 784x19
-      RenderText {#text} at (0,0) size 135x18
-        text run at (0,0) width 135: "expect to see 'two': "
-      RenderText {#text} at (135,0) size 24x18
-        text run at (135,0) width 24: "two"
+layer at (0,0) size 800x36
+  RenderBlock {HTML} at (0,0) size 800x36
+    RenderBody {BODY} at (8,8) size 784x20
+      RenderText {#text} at (0,0) size 120x19
+        text run at (0,0) width 120: "expect to see 'two': "
+      RenderText {#text} at (120,0) size 23x19
+        text run at (120,0) width 23: "two"
       RenderText {#text} at (0,0) size 0x0
 #EOF

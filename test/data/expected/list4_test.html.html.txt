@@ -3,31 +3,31 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x54
-  RenderBlock {HTML} at (0,0) size 800x54
-    RenderBody {BODY} at (8,8) size 784x38
-      RenderBlock (anonymous) at (0,0) size 784x19
-        RenderText {#text} at (0,0) size 201x18
-          text run at (0,0) width 201: "expect: (-a-) (-?-) (-c-), actual:"
-      RenderBlock {DIV} at (0,19) size 784x19
-        RenderText {#text} at (0,0) size 10x18
-          text run at (0,0) width 10: "(-"
-        RenderText {#text} at (10,0) size 9x18
-          text run at (10,0) width 9: "a"
-        RenderText {#text} at (19,0) size 14x18
-          text run at (19,0) width 14: "-) "
-        RenderText {#text} at (33,0) size 10x18
-          text run at (33,0) width 10: "(-"
-        RenderText {#text} at (43,0) size 9x18
-          text run at (43,0) width 9: "?"
-        RenderText {#text} at (52,0) size 14x18
-          text run at (52,0) width 14: "-) "
-        RenderText {#text} at (66,0) size 10x18
-          text run at (66,0) width 10: "(-"
-        RenderText {#text} at (76,0) size 8x18
-          text run at (76,0) width 8: "c"
-        RenderText {#text} at (84,0) size 10x18
-          text run at (84,0) width 10: "-)"
-      RenderBlock (anonymous) at (0,38) size 784x0
+layer at (0,0) size 800x56
+  RenderBlock {HTML} at (0,0) size 800x56
+    RenderBody {BODY} at (8,8) size 784x40
+      RenderBlock (anonymous) at (0,0) size 784x20
+        RenderText {#text} at (0,0) size 188x19
+          text run at (0,0) width 188: "expect: (-a-) (-?-) (-c-), actual:"
+      RenderBlock {DIV} at (0,20) size 784x20
+        RenderText {#text} at (0,0) size 11x19
+          text run at (0,0) width 11: "(-"
+        RenderText {#text} at (11,0) size 7x19
+          text run at (11,0) width 7: "a"
+        RenderText {#text} at (18,0) size 15x19
+          text run at (18,0) width 15: "-) "
+        RenderText {#text} at (33,0) size 11x19
+          text run at (33,0) width 11: "(-"
+        RenderText {#text} at (44,0) size 7x19
+          text run at (44,0) width 7: "?"
+        RenderText {#text} at (51,0) size 15x19
+          text run at (51,0) width 15: "-) "
+        RenderText {#text} at (66,0) size 11x19
+          text run at (66,0) width 11: "(-"
+        RenderText {#text} at (77,0) size 7x19
+          text run at (77,0) width 7: "c"
+        RenderText {#text} at (84,0) size 11x19
+          text run at (84,0) width 11: "-)"
+      RenderBlock (anonymous) at (0,40) size 784x0
         RenderText {#text} at (0,0) size 0x0
 #EOF
