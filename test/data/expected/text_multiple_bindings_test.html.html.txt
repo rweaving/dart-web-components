@@ -3,31 +3,31 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x134
-  RenderBlock {HTML} at (0,0) size 800x134
-    RenderBody {BODY} at (8,16) size 784x105
-      RenderBlock {P} at (0,0) size 784x16
-        RenderText {#text} at (0,0) size 528x16
-          text run at (0,0) width 528: "These two sentences should match:"
-      RenderBlock {PRE} at (0,32) size 784x30
-        RenderText {#text} at (0,0) size 232x30
-          text run at (0,0) width 232: "The \"quick\" \\brown $fox jumps"
-          text run at (232,0) width 0: " "
-          text run at (0,15) width 176: "  over the 'lazy' dog."
-      RenderBlock {PRE} at (0,75) size 784x30
-        RenderText {#text} at (0,0) size 192x15
-          text run at (0,0) width 192: "The \"quick\" \\brown $fox "
-        RenderText {#text} at (192,0) size 40x15
-          text run at (192,0) width 40: "jumps"
-        RenderText {#text} at (232,0) size 232x30
-          text run at (232,0) width 0: " "
-          text run at (0,15) width 56: "  over "
-        RenderText {#text} at (56,15) size 24x15
-          text run at (56,15) width 24: "the"
-        RenderText {#text} at (80,15) size 64x15
-          text run at (80,15) width 64: " 'lazy' "
-        RenderText {#text} at (144,15) size 24x15
-          text run at (144,15) width 24: "dog"
-        RenderText {#text} at (168,15) size 8x15
-          text run at (168,15) width 8: "."
+layer at (0,0) size 800x98
+  RenderBlock {HTML} at (0,0) size 800x98
+    RenderBody {BODY} at (8,10) size 784x78
+      RenderBlock {P} at (0,0) size 784x10
+        RenderText {#text} at (0,0) size 330x10
+          text run at (0,0) width 330: "These two sentences should match:"
+      RenderBlock {PRE} at (0,20) size 784x24
+        RenderText {#text} at (0,0) size 174x24
+          text run at (0,0) width 174: "The \"quick\" \\brown $fox jumps"
+          text run at (174,0) width 0: " "
+          text run at (0,12) width 132: "  over the 'lazy' dog."
+      RenderBlock {PRE} at (0,54) size 784x24
+        RenderText {#text} at (0,0) size 144x12
+          text run at (0,0) width 144: "The \"quick\" \\brown $fox "
+        RenderText {#text} at (144,0) size 30x12
+          text run at (144,0) width 30: "jumps"
+        RenderText {#text} at (174,0) size 174x24
+          text run at (174,0) width 0: " "
+          text run at (0,12) width 42: "  over "
+        RenderText {#text} at (42,12) size 18x12
+          text run at (42,12) width 18: "the"
+        RenderText {#text} at (60,12) size 48x12
+          text run at (60,12) width 48: " 'lazy' "
+        RenderText {#text} at (108,12) size 18x12
+          text run at (108,12) width 18: "dog"
+        RenderText {#text} at (126,12) size 6x12
+          text run at (126,12) width 6: "."
 #EOF

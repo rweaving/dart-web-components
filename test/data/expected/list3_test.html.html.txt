@@ -3,28 +3,28 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x48
-  RenderBlock {HTML} at (0,0) size 800x48
-    RenderBody {BODY} at (8,8) size 784x32
-      RenderText {#text} at (0,0) size 560x16
-        text run at (0,0) width 560: "expect: (-a-) (-?-) (-c-), actual: "
-      RenderText {#text} at (560,0) size 32x16
-        text run at (560,0) width 32: "(-"
-      RenderText {#text} at (592,0) size 16x16
-        text run at (592,0) width 16: "a"
-      RenderText {#text} at (608,0) size 48x16
-        text run at (608,0) width 48: "-) "
-      RenderText {#text} at (656,0) size 32x16
-        text run at (656,0) width 32: "(-"
-      RenderText {#text} at (688,0) size 16x16
-        text run at (688,0) width 16: "?"
-      RenderText {#text} at (704,0) size 32x16
-        text run at (704,0) width 32: "-)"
-      RenderText {#text} at (0,16) size 32x16
-        text run at (0,16) width 32: "(-"
-      RenderText {#text} at (32,16) size 16x16
-        text run at (32,16) width 16: "c"
-      RenderText {#text} at (48,16) size 32x16
-        text run at (48,16) width 32: "-)"
+layer at (0,0) size 800x26
+  RenderBlock {HTML} at (0,0) size 800x26
+    RenderBody {BODY} at (8,8) size 784x10
+      RenderText {#text} at (0,0) size 350x10
+        text run at (0,0) width 350: "expect: (-a-) (-?-) (-c-), actual: "
+      RenderText {#text} at (350,0) size 20x10
+        text run at (350,0) width 20: "(-"
+      RenderText {#text} at (370,0) size 10x10
+        text run at (370,0) width 10: "a"
+      RenderText {#text} at (380,0) size 30x10
+        text run at (380,0) width 30: "-) "
+      RenderText {#text} at (410,0) size 20x10
+        text run at (410,0) width 20: "(-"
+      RenderText {#text} at (430,0) size 10x10
+        text run at (430,0) width 10: "?"
+      RenderText {#text} at (440,0) size 30x10
+        text run at (440,0) width 30: "-) "
+      RenderText {#text} at (470,0) size 20x10
+        text run at (470,0) width 20: "(-"
+      RenderText {#text} at (490,0) size 10x10
+        text run at (490,0) width 10: "c"
+      RenderText {#text} at (500,0) size 20x10
+        text run at (500,0) width 20: "-)"
       RenderText {#text} at (0,0) size 0x0
 #EOF

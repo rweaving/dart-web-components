@@ -3,20 +3,20 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x48
-  RenderBlock {HTML} at (0,0) size 800x48
-    RenderBody {BODY} at (8,8) size 784x32
+layer at (0,0) size 800x36
+  RenderBlock {HTML} at (0,0) size 800x36
+    RenderBody {BODY} at (8,8) size 784x20
       RenderBlock (anonymous) at (0,0) size 784x0
         RenderInline {X-COMPONENT-WITH-EVENT-LISTENERS} at (0,0) size 0x0
           RenderText {#text} at (0,0) size 0x0
-      RenderBlock (anonymous) at (0,0) size 784x32
-        RenderBlock {DIV} at (0,0) size 784x16
-          RenderText {#text} at (0,0) size 16x16
-            text run at (0,0) width 16: "0"
-        RenderBlock {DIV} at (0,16) size 784x16
-          RenderText {#text} at (0,0) size 16x16
-            text run at (0,0) width 16: "1"
-      RenderBlock (anonymous) at (0,32) size 784x0
+      RenderBlock (anonymous) at (0,0) size 784x20
+        RenderBlock {DIV} at (0,0) size 784x10
+          RenderText {#text} at (0,0) size 10x10
+            text run at (0,0) width 10: "0"
+        RenderBlock {DIV} at (0,10) size 784x10
+          RenderText {#text} at (0,0) size 10x10
+            text run at (0,0) width 10: "1"
+      RenderBlock (anonymous) at (0,20) size 784x0
         RenderInline {X-COMPONENT-WITH-EVENT-LISTENERS} at (0,0) size 0x0
         RenderText {#text} at (0,0) size 0x0
 #EOF

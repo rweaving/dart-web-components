@@ -3,35 +3,34 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x248
-  RenderBlock {HTML} at (0,0) size 800x248
-    RenderBody {BODY} at (8,8) size 784x224
-      RenderBlock (anonymous) at (0,0) size 784x32
-        RenderText {#text} at (0,0) size 720x32
-          text run at (0,0) width 720: "You should see counting numbers from \"one\" to"
-          text run at (0,16) width 96: "\"six\":"
-      RenderBlock {P} at (0,48) size 784x16
-        RenderText {#text} at (0,0) size 48x16
-          text run at (0,0) width 48: "one"
-      RenderBlock {P} at (0,80) size 784x16
-        RenderText {#text} at (0,0) size 48x16
-          text run at (0,0) width 48: "two"
-      RenderBlock {P} at (0,112) size 784x16
-        RenderText {#text} at (0,0) size 80x16
-          text run at (0,0) width 80: "three"
-      RenderBlock {P} at (0,144) size 784x16
-        RenderText {#text} at (0,0) size 64x16
-          text run at (0,0) width 64: "four"
-      RenderBlock (anonymous) at (0,176) size 784x0
+layer at (0,0) size 800x148
+  RenderBlock {HTML} at (0,0) size 800x148
+    RenderBody {BODY} at (8,8) size 784x130
+      RenderBlock (anonymous) at (0,0) size 784x10
+        RenderText {#text} at (0,0) size 520x10
+          text run at (0,0) width 520: "You should see counting numbers from \"one\" to \"six\":"
+      RenderBlock {P} at (0,20) size 784x10
+        RenderText {#text} at (0,0) size 30x10
+          text run at (0,0) width 30: "one"
+      RenderBlock {P} at (0,40) size 784x10
+        RenderText {#text} at (0,0) size 30x10
+          text run at (0,0) width 30: "two"
+      RenderBlock {P} at (0,60) size 784x10
+        RenderText {#text} at (0,0) size 50x10
+          text run at (0,0) width 50: "three"
+      RenderBlock {P} at (0,80) size 784x10
+        RenderText {#text} at (0,0) size 40x10
+          text run at (0,0) width 40: "four"
+      RenderBlock (anonymous) at (0,100) size 784x0
         RenderText {#text} at (0,0) size 0x0
         RenderText {#text} at (0,0) size 0x0
-      RenderBlock {P} at (0,176) size 784x16
-        RenderText {#text} at (0,0) size 64x16
-          text run at (0,0) width 64: "five"
-      RenderBlock {P} at (0,208) size 784x16
-        RenderText {#text} at (0,0) size 48x16
-          text run at (0,0) width 48: "six"
-      RenderBlock (anonymous) at (0,240) size 784x0
+      RenderBlock {P} at (0,100) size 784x10
+        RenderText {#text} at (0,0) size 40x10
+          text run at (0,0) width 40: "five"
+      RenderBlock {P} at (0,120) size 784x10
+        RenderText {#text} at (0,0) size 30x10
+          text run at (0,0) width 30: "six"
+      RenderBlock (anonymous) at (0,140) size 784x0
         RenderText {#text} at (0,0) size 0x0
         RenderText {#text} at (0,0) size 0x0
 #EOF

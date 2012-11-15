@@ -3,18 +3,17 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x376
-  RenderBlock {HTML} at (0,0) size 800x377
-    RenderBody {BODY} at (8,21) size 784x340
-      RenderBlock {H1} at (0,0) size 784x64
-        RenderText {#text} at (0,0) size 693x64
-          text run at (0,0) width 693: "Simple Web Components"
-          text run at (0,32) width 231: "Example"
-      RenderBlock {UL} at (0,85) size 784x255
+layer at (0,0) size 800x262
+  RenderBlock {HTML} at (0,0) size 800x263
+    RenderBody {BODY} at (8,13) size 784x240
+      RenderBlock {H1} at (0,0) size 784x20
+        RenderText {#text} at (0,0) size 580x20
+          text run at (0,0) width 580: "Simple Web Components Example"
+      RenderBlock {UL} at (0,33) size 784x207
         RenderBlock {DIV} at (40,0) size 744x122 [color=#FF0000] [border: (1px dashed #800080)]
           RenderBlock {H2} at (1,25) size 742x31
-            RenderText {#text} at (0,0) size 496x30
-              text run at (0,0) width 496: "Breaking Stories"
+            RenderText {#text} at (0,0) size 480x30
+              text run at (0,0) width 480: "Breaking Stories"
           RenderBlock {UL} at (1,80) size 742x41
             RenderListItem {LI} at (40,0) size 702x20
               RenderListMarker at (-18,0) size 7x20: white bullet
@@ -26,29 +25,29 @@ layer at (0,0) size 800x376
               RenderInline {A} at (0,0) size 280x20 [color=#0000EE]
                 RenderText {#text} at (0,0) size 280x20
                   text run at (0,0) width 280: "Horrible story"
-        RenderBlock {DIV} at (40,121) size 744x133 [border: (1px solid #00FFFF)]
-          RenderBlock {H2} at (1,22) size 742x25
-            RenderText {#text} at (0,0) size 250x24
-              text run at (0,0) width 250: "Other News"
-          RenderBlock {UL} at (1,66) size 742x65
-            RenderListItem {LI} at (40,0) size 702x16
-              RenderListMarker at (-16,0) size 6x16: white bullet
-              RenderInline {A} at (0,0) size 112x16 [color=#0000EE]
-                RenderText {#text} at (0,0) size 112x16
-                  text run at (0,0) width 112: "A story"
-            RenderListItem {LI} at (40,16) size 702x16
-              RenderListMarker at (-16,0) size 6x16: white bullet
-              RenderInline {A} at (0,0) size 208x16 [color=#0000EE]
-                RenderText {#text} at (0,0) size 208x16
-                  text run at (0,0) width 208: "Another story"
-            RenderListItem {LI} at (40,32) size 702x16
-              RenderListMarker at (-16,0) size 6x16: white bullet
-              RenderInline {A} at (0,0) size 272x16 [color=#0000EE]
-                RenderText {#text} at (0,0) size 272x16
-                  text run at (0,0) width 272: "Yet another story"
-            RenderListItem {LI} at (40,48) size 702x16
-              RenderListMarker at (-16,0) size 6x16: white bullet
-              RenderInline {A} at (0,0) size 208x16 [color=#0000EE]
-                RenderText {#text} at (0,0) size 208x16
-                  text run at (0,0) width 208: "Awesome story"
+        RenderBlock {DIV} at (40,121) size 744x85 [border: (1px solid #00FFFF)]
+          RenderBlock {H2} at (1,15) size 742x16
+            RenderText {#text} at (0,0) size 150x15
+              text run at (0,0) width 150: "Other News"
+          RenderBlock {UL} at (1,42) size 742x41
+            RenderListItem {LI} at (40,0) size 702x10
+              RenderListMarker at (-13,0) size 5x10: white bullet
+              RenderInline {A} at (0,0) size 70x10 [color=#0000EE]
+                RenderText {#text} at (0,0) size 70x10
+                  text run at (0,0) width 70: "A story"
+            RenderListItem {LI} at (40,10) size 702x10
+              RenderListMarker at (-13,0) size 5x10: white bullet
+              RenderInline {A} at (0,0) size 130x10 [color=#0000EE]
+                RenderText {#text} at (0,0) size 130x10
+                  text run at (0,0) width 130: "Another story"
+            RenderListItem {LI} at (40,20) size 702x10
+              RenderListMarker at (-13,0) size 5x10: white bullet
+              RenderInline {A} at (0,0) size 170x10 [color=#0000EE]
+                RenderText {#text} at (0,0) size 170x10
+                  text run at (0,0) width 170: "Yet another story"
+            RenderListItem {LI} at (40,30) size 702x10
+              RenderListMarker at (-13,0) size 5x10: white bullet
+              RenderInline {A} at (0,0) size 130x10 [color=#0000EE]
+                RenderText {#text} at (0,0) size 130x10
+                  text run at (0,0) width 130: "Awesome story"
 #EOF

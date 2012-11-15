@@ -3,31 +3,31 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x144
-  RenderBlock {HTML} at (0,0) size 800x144
-    RenderBody {BODY} at (8,8) size 784x128
-      RenderBlock {DIV} at (0,0) size 784x32
-        RenderText {#text} at (0,0) size 656x16
-          text run at (0,0) width 656: "text to text (expect <span>text1</span>):"
-        RenderText {#text} at (0,16) size 288x16
-          text run at (0,16) width 288: "<span>text1</span>"
-      RenderBlock {DIV} at (0,32) size 784x32
-        RenderBlock (anonymous) at (0,0) size 784x16
-          RenderText {#text} at (0,0) size 688x16
-            text run at (0,0) width 688: "text to html (expect html1 in a real span):"
-        RenderBlock {DIV} at (0,16) size 784x16
-          RenderText {#text} at (0,0) size 80x16
-            text run at (0,0) width 80: "html1"
-      RenderBlock {DIV} at (0,64) size 784x32
-        RenderText {#text} at (0,0) size 656x16
-          text run at (0,0) width 656: "html to text (expect <span>text2</span>):"
-        RenderText {#text} at (0,16) size 288x16
-          text run at (0,16) width 288: "<span>text2</span>"
-      RenderBlock {DIV} at (0,96) size 784x32
-        RenderBlock (anonymous) at (0,0) size 784x16
-          RenderText {#text} at (0,0) size 688x16
-            text run at (0,0) width 688: "html to html (expect html2 in a real span):"
-        RenderBlock {DIV} at (0,16) size 784x16
-          RenderText {#text} at (0,0) size 80x16
-            text run at (0,0) width 80: "html2"
+layer at (0,0) size 800x76
+  RenderBlock {HTML} at (0,0) size 800x76
+    RenderBody {BODY} at (8,8) size 784x60
+      RenderBlock {DIV} at (0,0) size 784x10
+        RenderText {#text} at (0,0) size 420x10
+          text run at (0,0) width 420: "text to text (expect <span>text1</span>): "
+        RenderText {#text} at (420,0) size 180x10
+          text run at (420,0) width 180: "<span>text1</span>"
+      RenderBlock {DIV} at (0,10) size 784x20
+        RenderBlock (anonymous) at (0,0) size 784x10
+          RenderText {#text} at (0,0) size 430x10
+            text run at (0,0) width 430: "text to html (expect html1 in a real span):"
+        RenderBlock {DIV} at (0,10) size 784x10
+          RenderText {#text} at (0,0) size 50x10
+            text run at (0,0) width 50: "html1"
+      RenderBlock {DIV} at (0,30) size 784x10
+        RenderText {#text} at (0,0) size 420x10
+          text run at (0,0) width 420: "html to text (expect <span>text2</span>): "
+        RenderText {#text} at (420,0) size 180x10
+          text run at (420,0) width 180: "<span>text2</span>"
+      RenderBlock {DIV} at (0,40) size 784x20
+        RenderBlock (anonymous) at (0,0) size 784x10
+          RenderText {#text} at (0,0) size 430x10
+            text run at (0,0) width 430: "html to html (expect html2 in a real span):"
+        RenderBlock {DIV} at (0,10) size 784x10
+          RenderText {#text} at (0,0) size 50x10
+            text run at (0,0) width 50: "html2"
 #EOF

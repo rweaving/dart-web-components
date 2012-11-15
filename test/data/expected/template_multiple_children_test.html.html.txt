@@ -3,14 +3,14 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x48
-  RenderBlock {HTML} at (0,0) size 800x48
-    RenderBody {BODY} at (8,8) size 784x32
-      RenderBlock {X-TEST} at (0,0) size 784x32
-        RenderBlock {DIV} at (0,0) size 784x16
-          RenderText {#text} at (0,0) size 432x16
-            text run at (0,0) width 432: "This tests a component with"
-        RenderBlock {DIV} at (0,16) size 784x16
-          RenderText {#text} at (0,0) size 576x16
-            text run at (0,0) width 576: "multiple children of <template> tag."
+layer at (0,0) size 800x36
+  RenderBlock {HTML} at (0,0) size 800x36
+    RenderBody {BODY} at (8,8) size 784x20
+      RenderBlock {X-TEST} at (0,0) size 784x20
+        RenderBlock {DIV} at (0,0) size 784x10
+          RenderText {#text} at (0,0) size 270x10
+            text run at (0,0) width 270: "This tests a component with"
+        RenderBlock {DIV} at (0,10) size 784x10
+          RenderText {#text} at (0,0) size 360x10
+            text run at (0,0) width 360: "multiple children of <template> tag."
 #EOF

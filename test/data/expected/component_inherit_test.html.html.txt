@@ -3,26 +3,25 @@ Blocked access to external URL http://dart.googlecode.com/svn/branches/bleeding_
 Content-Type: text/plain
 layer at (0,0) size 800x600
   RenderView at (0,0) size 800x600
-layer at (0,0) size 800x181
-  RenderBlock {HTML} at (0,0) size 800x181
-    RenderBody {BODY} at (8,8) size 784x165
-      RenderBlock {DIV} at (0,0) size 784x165
-        RenderBlock {DIV} at (0,0) size 784x32
-          RenderText {#text} at (0,0) size 720x32
-            text run at (0,0) width 720: "Here are the lifecycle methods that have been"
-            text run at (0,16) width 112: "called:"
-        RenderBlock {PRE} at (0,45) size 784x75
-          RenderText {#text} at (0,0) size 128x75
+layer at (0,0) size 800x116
+  RenderBlock {HTML} at (0,0) size 800x116
+    RenderBody {BODY} at (8,8) size 784x100
+      RenderBlock {DIV} at (0,0) size 784x100
+        RenderBlock {DIV} at (0,0) size 784x10
+          RenderText {#text} at (0,0) size 530x10
+            text run at (0,0) width 530: "Here are the lifecycle methods that have been called:"
+        RenderBlock {PRE} at (0,20) size 784x60
+          RenderText {#text} at (0,0) size 96x60
             text run at (0,0) width 0: " "
-            text run at (0,15) width 96: "Base.created"
-            text run at (96,15) width 0: " "
-            text run at (0,30) width 120: "Derived.created"
-            text run at (120,30) width 0: " "
-            text run at (0,45) width 104: "Base.inserted"
-            text run at (104,45) width 0: " "
-            text run at (0,60) width 128: "Derived.inserted"
-        RenderBlock {DIV} at (0,133) size 784x32
-          RenderText {#text} at (0,0) size 720x32
-            text run at (0,0) width 720: "You should see Base created, Derived created,"
-            text run at (0,16) width 496: "Base inserted, Derived inserted"
+            text run at (0,12) width 72: "Base.created"
+            text run at (72,12) width 0: " "
+            text run at (0,24) width 90: "Derived.created"
+            text run at (90,24) width 0: " "
+            text run at (0,36) width 78: "Base.inserted"
+            text run at (78,36) width 0: " "
+            text run at (0,48) width 96: "Derived.inserted"
+        RenderBlock {DIV} at (0,90) size 784x10
+          RenderText {#text} at (0,0) size 770x10
+            text run at (0,0) width 460: "You should see Base created, Derived created, "
+            text run at (460,0) width 310: "Base inserted, Derived inserted"
 #EOF

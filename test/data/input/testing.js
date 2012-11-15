@@ -33,6 +33,6 @@ window.addEventListener('error', errorHandler, false);
 // TODO(jmesserly): this is an attempt to work around platform specific font
 // differences.
 var style = document.createElement('style');
-style.textContent = '* { font-family: Ahem; }' +
+style.textContent = 'html { font: 10px Ahem; -webkit-font-smoothing: none; }' +
     'pre, xmp, plaintext, listing { font-family: monospace; }';
 document.head.appendChild(style);
